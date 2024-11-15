@@ -1,2 +1,2 @@
-const secretKey = process.env.MY_SECRET_KEY;
+export const secretKey = process.env.MY_SECRET_KEY;
 
